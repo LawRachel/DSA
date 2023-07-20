@@ -8,7 +8,8 @@ This is a class collection on self-defined data structure and algorithms.
 - Linked List:
 - Doubly Linked List:
 - Tree:
-- Binary Tree: Insert (append, prepend, insert at middle), Delete (at tail, head, middle), Traversal
+- Binary Tree:
+  - Insert (append, prepend, insert at middle), Delete (at tail, head, middle), Traversal (preorder_iteration, preorder ), Search Target, Find Max, Find Min, Count Sum
 - Binary Search Tree: Insert, 
 - Heap:
 - Tries:
