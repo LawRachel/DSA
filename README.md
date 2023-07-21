@@ -1,22 +1,22 @@
-# About This Repository
+## About
 This is a class collection on self-defined data structure and algorithms.
 
 ## Data Sturcure Classes and Operation Algorithms Included
-- Stack:
-- Queue:
-- Deque:
-- Linked List:
-- Doubly Linked List:
-- Tree:
-- Binary Tree:
-  - Insert, including append, prepend, and insert at middle
-  - Delete, including delete at tail, head, and middle
-  - Traversal, including preorder, inorder, postorder and bridth first search, implemented in iteration, naive recursion and tail recursion
+- Stack
+- Queue
+- Deque
+- Linked List
+- Doubly Linked List
+- Tree
+- Binary Tree
+- Binary Search Tree
+  - Insert: including Append, Prepend, and Insert at middle
+  - Delete: including delete at Tail, Head, and Middle
+  - Traversal: including Preorder, Inorder, Postorder and Bridth First Search, implemented in Iteration, Naive Recursion and Tail Recursion
   - Search Target, Search Max, Search Min
   - Count Sum
-- Binary Search Tree: Insert, 
-- Heap:
-- Tries:
+- Heap
+- Tries
 
 ## Implementation Language
 - Python
