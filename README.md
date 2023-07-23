@@ -16,6 +16,8 @@ This is a class collection on self-defined data structure and algorithms.
   - Search Target, Search Max, Search Min
   - Count Sum
 - Heap
+  - Insert
+  - Delete Max/Min
 - Tries
   - Insert
   - Search
