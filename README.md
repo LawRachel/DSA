@@ -17,6 +17,9 @@ This is a class collection on self-defined data structure and algorithms.
   - Count Sum
 - Heap
 - Tries
+  - Insert
+  - Search
+  - Delete
 
 ## Implementation Language
 - Python
